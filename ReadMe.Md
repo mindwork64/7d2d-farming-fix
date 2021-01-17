@@ -1,3 +1,7 @@
+# Fix by justhow
+
+All credit to Mayic (https://www.nexusmods.com/7daystodie/users/35348105), I merely tweaked a few things to fix this mod for the current release.
+
 # Farming Expansion Modlet (A17 full release)
 ## 17.2.1 Hotfix
 -Fixed Scythe being OP 
